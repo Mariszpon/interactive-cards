@@ -16,21 +16,15 @@
 
 ## ♯ Introdução: <a id="introducao"></a>
 
-### ⟢ Explicação do Projeto:
-
-### ⟢ Contexto Acadêmico:
-Este projeto foi desenvolvido como parte da disciplina de Programação WEB, no segundo período do curso de Ciências da Computação.
-
-### ⟢ Estilo Visual:
-O projeto foi desenvolvido com uma estética colorida e divertida, utilizando as cores azul, rosa e amarelo como base.
-Essas cores foram escolhidas por remeterem a elementos celestes e delicados, como estrelas e flores, criando uma atmosfera lúdica e acolhedora para o jogo.
-Entre os elementos visuais aplicados estão:
-* Códigos de cor
-* Símbolos
+Em desenvolvimento.
 
 ### ⟢ Conceitos de Programação Aplicados:
 
+Em desenvolvimento.
+
 ---
+
+Em desenvolvimento.
 
 ---
 
