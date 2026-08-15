@@ -1,7 +1,10 @@
-/* Site das fontes: https://fonts.google.com/ /
-/ Site da sombra: https://getcssscan.com/css-box-shadow-examples /
+/* Site das fontes: https://fonts.google.com/ 
+Site da sombra: https://getcssscan.com/css-box-shadow-examples
 
-/{} engloba tudo */
+Margin: Espaço externo (Entre elementos e outros ao redor)
+Padding: Espaço interno (Distância do conteúdo e borda)
+
+{} engloba tudo */
 *{
     margin: 0;
     padding: 0;
@@ -16,9 +19,14 @@
     justify-content: center;
 }
 
+.main2{
+    display: flex;
+    justify-content: center;
+}
+
 .card {
     width: 300px;
-    height: 500px;
+    height: 600px;
     margin: 50px;
     background-color: #f0f0f0;
     color: #5e5780;
@@ -81,4 +89,38 @@
     font-size: 15px;
     background-color: #9189bd;
     color: #ffffff;
+}
+
+.consideracoes {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.intro {
+    width: 700px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: #f0f0f0;
+    color: #5e5780;
+    /*Borda arredondada*/
+    border-radius: 10px;
+    /*Sombra*/
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    /*Transição*/
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    font-family: "Elsie", serif;
+    text-align: center;
+    justify-content: center;
+}
+
+.titulo {
+    font-size: 40px;
+    color:#413961;
+    text-shadow:2px 2px #1a162e;
+    font-family: "Mea Culpa", static;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end; /*É pra jogar o conteúdo pra baixo com o height*/
+    height: 130px;
 }
