@@ -18,8 +18,8 @@
 
 .card {
     width: 300px;
-    height: 350px;
-    margin: 10px;
+    height: 500px;
+    margin: 50px;
     background-color: #f0f0f0;
     color: #5e5780;
     /*Borda arredondada*/
@@ -41,6 +41,7 @@
 .card>p {
     font-size: 16px;
     margin: 10px 10px;
+    font-family: "Quintessential", serif;
 }
 
 .card>img {
