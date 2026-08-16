@@ -11,7 +11,7 @@
   <a href="#demonstracao">Demonstração do Site</a> •
   <a href="#finalizacao">Finalização</a>
 </p>
-
+\n
 ![gif](images/dordecabeca.gif)
 </div>
 ---
