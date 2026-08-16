@@ -21,7 +21,7 @@ Em desenvolvimento.
 
 ### ⟢ Conceitos de Programação Aplicados:
 
-* Estruturação de conteúdo com tags (<div>, <h1>, <p>, <img>, <a>, <button>)
+* Estruturação de conteúdo com tags (</div>, </h1>, </p>, </img>, </a>, </button>)
 * Links e navegação (<a href="...">)
 * Imagens com atributos (<img src="..." alt="...">)
 * Agrupamento de elementos (<div>)
