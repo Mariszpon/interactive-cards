@@ -11,10 +11,9 @@
   <a href="#demonstracao">Demonstração do Site</a> •
   <a href="#finalizacao">Finalização</a>
 </p>
-</div>
 
 ![gif](images/dordecabeca.gif)
-
+</div>
 ---
 
 ## ♯ Introdução: <a id="introducao"></a>
