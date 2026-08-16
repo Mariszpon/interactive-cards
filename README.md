@@ -13,6 +13,8 @@
 </p>
 </div>
 
+![gif](images/dordecabeca.gif)
+
 ---
 
 ## ♯ Introdução: <a id="introducao"></a>
