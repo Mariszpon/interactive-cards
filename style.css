@@ -125,13 +125,30 @@ Padding: Espaço interno (Distância do conteúdo e borda)
     margin-top:10px
 }
 
+.cima{
+    width: 100%;
+    height: 20px;
+    background-color: #ffff;
+    color: #aea7d4;
+}
+
+.cima h1{
+    padding-left: 3px;
+    font-size: 14px;    /* ajusta tamanho da fonte */
+}
+
 .titulo {
-    font-size: 40px;
-    color:#413961;
-    text-shadow:2px 2px #1a162e;
-    font-family: "Mea Culpa", static;
-    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: #5e5780;
+    color: #ffff;
+    /*Sombra*/
+    box-shadow: rgba(35, 26, 59, 0.171) 0px 22px 70px 4px;
+    font-family: "Quintessential", serif;
     justify-content: center;
-    align-items: flex-end; /*É pra jogar o conteúdo pra baixo com o height*/
-    height: 130px;
+    display:flex;
+    padding-top:20px;
+    font-family: "Tangerine", cursive;
+    font-size: 30px;
+    text-shadow: 1px 1px 10px rgba(20, 15, 34, 0.56);
 }
