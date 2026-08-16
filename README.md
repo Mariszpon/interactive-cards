@@ -22,9 +22,9 @@ Em desenvolvimento.
 ### ⟢ Conceitos de Programação Aplicados:
 
 * Estruturação de conteúdo com tags (div, h1, p, img, a, button)
-* Links e navegação (<a href="...">)
-* Imagens com atributos (<img src="..." alt="...">)
-* Agrupamento de elementos (<div>)
+* Links e navegação (a href=)
+* Imagens com atributos (img src= alt=)
+* Agrupamento de elementos (div)
 * Seletores de classe e elemento (.card, .contato h1, .logo)
 * Box model (margin, padding, border, box-sizing)
 * Flexbox: display (flex, justify-content, align-items, flex-direction)
