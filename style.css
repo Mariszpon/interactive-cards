@@ -97,13 +97,12 @@ Padding: Espaço interno (Distância do conteúdo e borda)
     color: #ffff;
     /*Sombra*/
     box-shadow: rgba(20, 15, 34, 0.56) 0px 22px 70px 4px;
-    font-family: "Quintessential", serif;
     text-align: center;
-    padding-left: 900px;
     display:flex;
 }
 
 .contato h1{
+    font-family: "Quintessential", serif;
     padding-top: 20px;
     font-family: "Gelasio", serif;
     font-size: 15px;
@@ -118,10 +117,26 @@ Padding: Espaço interno (Distância do conteúdo e borda)
     color:#f0f0f0;
 }
 
+.logo{
+    padding-top: 30px;
+    padding-left:300px;
+    font-family: "Tangerine", cursive;
+    color:#ffffff;
+    font-size: 30px;
+    text-shadow: 1px 1px 10px rgba(20, 15, 34, 0.56);
+    display: flex;
+    align-items: center;       /* centraliza verticalmente */
+    justify-content: center;   /* centraliza horizontalmente */
+    
+}
+.logo p{
+    font-size:20px;
+}
+
 .linha {
     border-left: 2px solid #ffffff; /* cria a linha vertical */
     height: 80px;                   /* altura da linha */
-    margin-left: 400px;             /* espaço pra direita */
+    margin-left: 900px;             /* espaço pra direita */
     margin-top:10px
 }
 
@@ -144,7 +159,6 @@ Padding: Espaço interno (Distância do conteúdo e borda)
     color: #ffff;
     /*Sombra*/
     box-shadow: rgba(35, 26, 59, 0.171) 0px 22px 70px 4px;
-    font-family: "Quintessential", serif;
     justify-content: center;
     display:flex;
     padding-top:20px;
