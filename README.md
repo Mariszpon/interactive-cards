@@ -21,7 +21,20 @@ Em desenvolvimento.
 
 ### ⟢ Conceitos de Programação Aplicados:
 
-Em desenvolvimento.
+* Estruturação de conteúdo com tags (<div>, <h1>, <p>, <img>, <a>, <button>)
+* Links e navegação (<a href="...">)
+* Imagens com atributos (<img src="..." alt="...">)
+* Agrupamento de elementos (<div>)
+* Seletores de classe e elemento (.card, .contato h1, .logo)
+* Box model (margin, padding, border, box-sizing)
+* Flexbox: display (flex, justify-content, align-items, flex-direction)
+* Estilização de texto (font-family, font-size, color, text-align, text-shadow)
+* Estilização de botões (background-color, border-radius, cursor, transition, hover)
+* Estilização de imagens (object-fit, border-radius)
+* Sombras (box-shadow)
+* Responsividade básica (uso de width: 100% e height fixos para seções)
+* Outros
+
 
 ---
 
