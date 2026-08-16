@@ -32,7 +32,6 @@ Em desenvolvimento.
 * Estilização de botões (background-color, border-radius, cursor, transition, hover)
 * Estilização de imagens (object-fit, border-radius)
 * Sombras (box-shadow)
-* Responsividade básica (uso de width: 100% e height fixos para seções)
 * Outros
 
 
