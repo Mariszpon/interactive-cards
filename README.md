@@ -1,5 +1,5 @@
 <div align="center">
-<h1> ⤷ Cartões Interativos 🖼️</h1>
+<h1> ⤷ Cartões Interativos </h1>
 <p>
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
