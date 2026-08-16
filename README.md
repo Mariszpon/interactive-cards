@@ -1,7 +1,7 @@
 <div align="center">
 <h1> ⤷ Cartões Interativos </h1>
 <p>
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
+  <img src="https://img.shields.io/badge/status-finalizado-green" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
   <img src="https://img.shields.io/badge/linguagem-html%20%26%20css-orange" />
 </p>
