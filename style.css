@@ -118,7 +118,7 @@ Padding: Espaço interno (Distância do conteúdo e borda)
 }
 
 .logo{
-    padding-top: 30px;
+    padding-top: 10px;
     padding-left:300px;
     font-family: "Tangerine", cursive;
     color:#ffffff;
@@ -165,4 +165,25 @@ Padding: Espaço interno (Distância do conteúdo e borda)
     font-family: "Tangerine", cursive;
     font-size: 30px;
     text-shadow: 1px 1px 10px rgba(20, 15, 34, 0.56);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 20px; /* separação automática entre os links */
+}
+
+.menu a {
+    background-color: #5e5780;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: "Gelasio", serif;
+    transition: background-color 0.3s;
+}
+
+.menu a:hover {
+    background-color: #4b3f6b;
 }
