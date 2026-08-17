@@ -39,6 +39,11 @@ Em desenvolvimento.
 
 ## ♯ Demonstração do Site: <a id="demonstracao"></a>
 
+![Preview do site](Menu1)
+![Preview do site](Menu2)
+![Preview do site](Login)
+![Preview do site](Cadastro)
+
 ---
 
 ## ♯ Finalização: <a id="finalizacao"></a>
