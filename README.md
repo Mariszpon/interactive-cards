@@ -13,14 +13,24 @@
 </p>
 
 </div>
+
 ---
 
 ## ♯ Introdução: <a id="introducao"></a>
 
-Em desenvolvimento.
+Este projeto foi desenvolvido como atividade prática de programação front‑end, utilizando HTML e CSS no VsCode.
+O objetivo principal foi aplicar conceitos fundamentais de estruturação e estilização de páginas web.
 
 ### ⟢ Estrutura do Projeto:
 
+📦 cartoes-interativos
+ ┣ 📂 images-README        # imagens utilizadas no README
+ ┣ 📂 images               # imagens utilizadas no site
+ ┣ 📜 index.html           # página inicial (menu)
+ ┣ 📜 login.html           # página de login
+ ┣ 📜 cadastro.html        # página de cadastro
+ ┣ 📜 style.css            # estilização
+ ┗ 📜 README.md            # documentação do projeto
 
 ### ⟢ Conceitos de Programação Aplicados:
 
