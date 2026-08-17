@@ -39,10 +39,10 @@ Em desenvolvimento.
 
 ## ♯ Demonstração do Site: <a id="demonstracao"></a>
 
-![Preview do site](Menu1.png)
-![Preview do site](Menu2.png)
-![Preview do site](Login.png)
-![Preview do site](Cadastro.png)
+![Preview do site](images-README/Menu1.png)
+![Preview do site](images-README/Menu2.png)
+![Preview do site](images-README/Login.png)
+![Preview do site](images-README/Cadastro.png)
 
 ---
 
