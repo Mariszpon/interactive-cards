@@ -15,10 +15,6 @@
 </div>
 ---
 
-git clone https://github.com/Mariszpon/interactive-cards.git
-cd seurepositorio
-# abrir index.html no navegador
-
 ## ♯ Introdução: <a id="introducao"></a>
 
 Em desenvolvimento.
