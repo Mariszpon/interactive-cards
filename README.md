@@ -24,13 +24,13 @@ O objetivo principal foi aplicar conceitos fundamentais de estruturação e esti
 ### ⟢ Estrutura do Projeto:
 
 📦 cartoes-interativos
- ┣ 📂 images-README        # imagens utilizadas no README
- ┣ 📂 images               # imagens utilizadas no site
- ┣ 📜 index.html           # página inicial (menu)
- ┣ 📜 login.html           # página de login
- ┣ 📜 cadastro.html        # página de cadastro
- ┣ 📜 style.css            # estilização
- ┗ 📜 README.md            # documentação do projeto
+ ┣ **📂 images-README**        # imagens utilizadas no README
+ ┣ **📂 images**               # imagens utilizadas no site
+ ┣ **📜 index.html**           # página inicial (menu)
+ ┣ **📜 login.html**           # página de login
+ ┣ **📜 cadastro.html**        # página de cadastro
+ ┣ **📜 style.css**            # estilização
+ ┗ **📜 README.md**            # documentação do projeto
 
 ### ⟢ Conceitos de Programação Aplicados:
 
