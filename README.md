@@ -1,7 +1,7 @@
 <div align="center">
 <h1> ⤷ Cartões Interativos </h1>
 <p>
-  <img src="https://img.shields.io/badge/status-quase%20concluído-yellow" />
+  <img src="https://img.shields.io/badge/status-concluído-green" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
   <img src="https://img.shields.io/badge/linguagem-html%20%26%20css-orange" />
 </p>
@@ -12,7 +12,6 @@
   <a href="#finalizacao">Finalização</a>
 </p>
 
-![gif](images/dordecabeca.gif)
 </div>
 ---
 
