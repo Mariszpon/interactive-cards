@@ -19,6 +19,9 @@
 
 Em desenvolvimento.
 
+### ⟢ Estrutura do Projeto:
+
+
 ### ⟢ Conceitos de Programação Aplicados:
 
 * Estruturação de conteúdo com tags (div, h1, p, img, a, button)
@@ -54,3 +57,5 @@ Em desenvolvimento.
 [![Vscode](https://img.shields.io/badge/VsCode-000?logo=visualstudiocode&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
+[Mariszpon](https://github.com/Mariszpon)
