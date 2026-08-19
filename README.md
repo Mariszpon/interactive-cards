@@ -23,7 +23,7 @@ O objetivo principal foi aplicar conceitos fundamentais de estruturação e esti
 
 ### ⟢ Estrutura do Projeto:
 
-📂 images-README       # imagens utilizadas no README
+```📂 images-README       # imagens utilizadas no README```
 
 📂 images              # imagens utilizadas no site
 
