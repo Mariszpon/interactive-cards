@@ -21,22 +21,6 @@
 Este projeto foi desenvolvido como atividade prática de programação front‑end, utilizando HTML e CSS no VsCode.
 O objetivo principal foi aplicar conceitos fundamentais de estruturação e estilização de páginas web.
 
-### ⟢ Estrutura do Projeto:
-
-```📂 images-README       # imagens utilizadas no README```
-
-```📂 images              # imagens utilizadas no site```
-
-```📜 index.html          # página inicial (menu)```
-
-```📜 login.html          # página de login```
-
-```📜 cadastro.html       # página de cadastro```
-
-```📜 style.css           # estilização```
-
-```📜 README.md           # documentação do projeto```
-
 ### ⟢ Conceitos de Programação Aplicados:
 
 * Estruturação de conteúdo com tags (div, h1, p, img, a, button)
@@ -52,6 +36,12 @@ O objetivo principal foi aplicar conceitos fundamentais de estruturação e esti
 * Sombras (box-shadow)
 * Outros
 
+### ⟢ Tecnologias utilizadas:
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#
 
 ---
 
